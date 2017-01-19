@@ -38,7 +38,7 @@ public class Zadatak4BrisanjeVrednosti {
             for(Roba r: roba)
                 System.out.println("Roba = " +r);
 
-            
+
 
 
         } catch (Exception e) {
